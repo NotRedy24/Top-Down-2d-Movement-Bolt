@@ -1,3 +1,4 @@
-# Top-Down-2d-Movement-Bolt
+# Go to Release to download the project and try them out!
 You can download the zip project on release or in version tag!
-Remember Code Is Fun!
+
+Have Fun with that!
